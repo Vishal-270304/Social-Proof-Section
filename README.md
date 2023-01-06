@@ -2,6 +2,8 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
+You can preview the site by clicking https://vishal-270304.github.io/Social-Proof-Section/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
